@@ -1,0 +1,15 @@
+What Does Email Bomb Mean?
+
+An email bomb is a form of Internet abuse which is perpetrated through the sending of massive volumes of email to a specific email address with the goal of overflowing the mailbox and overwhelming the mail server hosting the address, making it into some form of denial of service attack.
+
+An email bomb is also known as a letter bomb.
+Techopedia Explains Email Bomb
+
+Email bombs, depending on the magnitude can be a form of prank or an actual denial of service attack.
+
+There are three ways to create an email bomb:
+
+    Mass mailing - involves sending numerous duplicates of the same email to one email address. Because of the simplicity of this attack, it can be easily detected by spam filters. To be done on a massive scale, an attacker can use a bot net or zombie net, computers across the globe which are under the attacker’s control due to some form of malware such as Trojans, and then instructing the bot net to send millions of emails to a single or a few addresses at once in order to perform a denial of service attack. This is harder for spam filters to detect since each email would be coming from a unique source.
+    List linking - meant more to annoy rather than cause real trouble. The technique involves subscribing the address for attack to different email list subscriptions so it would always receive spam mail from these lists. The user then has to manually unsubscribe from each list. However, more legitimate lists require email verification which the user has to manually click and accept to be part of the email listing. To circumvent this, the attacker may register a new email account and subscribe that to all the lists and have it automatically forward all mail to the victim. The attacker can reply to the confirmation emails. But since the emails will be coming from a single forwarding source, it can simply be blocked by the user.
+    ZIP bombing - the latest twist on email bombing using ZIP archived attachments. Mail servers always check email attachments for viruses, especially zip archives and .exe files. The idea here is to place a text file with millions or billions of arbitrary characters or even a single letter repeated millions of times so that the scanner would require a greater amount of processing power to read each one. Combining this with mass mailing techniques ups the potential for a denial of service attack to succeed.
+
